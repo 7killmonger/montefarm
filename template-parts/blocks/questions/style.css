@@ -1,0 +1,8 @@
+.accordion-content {
+  display: none; /* Start hidden */
+  overflow: hidden; /* Ensure content doesn't overflow */
+}
+
+.accordion-wrapper.open .accordion-content {
+  display: block; /* Show content when accordion is open */
+}

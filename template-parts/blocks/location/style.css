@@ -1,0 +1,11 @@
+.location-button{
+    background: white;
+    transition: all 0.3s ease-in-out;
+}
+.location-button:hover{
+    background: #1A51AB;
+    /*border: none !important;*/
+    color: white;
+    border-color: #1A51AB;
+}
+

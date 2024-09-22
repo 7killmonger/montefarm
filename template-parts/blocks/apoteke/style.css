@@ -1,0 +1,21 @@
+#apoteke-lokacija{
+    background: #00000000;
+    transition: all 0.3s ease-in-out;
+}
+#apoteke-lokacija:hover{
+    background: #1A51AB;
+    /*border: none !important;*/
+    color: white;
+    border-color: #1A51AB;
+}
+#apoteke-poziv{
+    background: #00000000;
+    transition: all 0.3s ease-in-out;
+}
+#apoteke-poziv:hover{
+    background: #1A51AB;
+    /*border: none !important;*/
+    color: white;
+    border-color: #1A51AB;
+}
+

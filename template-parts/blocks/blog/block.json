@@ -1,0 +1,16 @@
+{
+  "name": "acf/blog",
+  "title": "Blog",
+  "description": "A custom testimonial block that uses ACF fields.",
+  "style": [ "file:./style.css" ],
+  "category": "formatting",
+  "icon": "admin-comments",
+  "keywords": ["testimonial", "quote"],
+  "acf": {
+    "mode": "auto",
+    "renderTemplate": "render.php"
+  },
+  "supports": {
+    "anchor": true
+  }
+}

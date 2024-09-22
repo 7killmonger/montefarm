@@ -1,0 +1,17 @@
+{
+  "name": "acf/info-posts",
+  "title": "Info Posts",
+  "description": "A custom testimonial block that uses ACF fields.",
+  "style": [ "file:./style.css" ],
+  "script": [ "file:./script.js" ],
+  "category": "formatting",
+  "icon": "admin-comments",
+  "keywords": ["testimonial", "quote"],
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "render.php"
+  },
+  "supports": {
+    "anchor": true
+  }
+}

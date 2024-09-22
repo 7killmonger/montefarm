@@ -1,0 +1,4 @@
+.org-list:before{
+    content: "-";
+    padding-right: 5px;
+}

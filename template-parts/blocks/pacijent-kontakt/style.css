@@ -1,0 +1,58 @@
+/*#forminator-module-330{*/
+/*    display: block !important;*/
+/*}*/
+.prava ul li{
+    color:white;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.forminator-error-message{
+    color: red;
+    font-size: 14px;
+    font-weight: 400;
+}
+#forminator-form-330__field--select-1_668e3fb5d3092-label{
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    color:#176B87;
+}
+#custom-form-wrapper{
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+.forminator-field{
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+}
+.forminator-textarea{
+    padding: 15px;
+    border: 1px solid #cdcdcd;
+    border-radius: 10px;
+}
+.forminator-label{
+    font-size: 16px;
+    font-weight: 400;
+    color: #cdcdcd;
+}
+
+.forminator-button{
+    background-color: #0E559D;
+    color: white;
+    padding: 15px 10px;
+    border-radius: 25px;
+}
+
+.forminator-select--field {
+    padding: 10px 15px;
+    padding-right: 20px;
+    background-color: #0E559D;
+    border-radius: 20px;
+    font-weight: 600;
+    color: white;
+    margin-top: 10px;
+}

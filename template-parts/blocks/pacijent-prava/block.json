@@ -1,0 +1,17 @@
+{
+  "name": "acf/pacijent-prava",
+  "title": "pacijent-prava",
+  "description": "A custom testimonial block that uses ACF fields.",
+  "style": [ "file:./style.css" ],
+  "script": [ "file:./script.js" ],
+  "category": "formatting",
+  "icon": "admin-comments",
+  "keywords": ["testimonial", "quote"],
+  "acf": {
+    "mode": "auto",
+    "renderTemplate": "render.php"
+  },
+  "supports": {
+    "anchor": true
+  }
+}

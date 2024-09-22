@@ -1,0 +1,27 @@
+.about-kartica {
+    background-color: white;
+    transition: background-color 0.3s ease-in-out;
+}
+.about-kartica:hover {
+    background-color: #E9F4FF;
+}
+.card-expand:hover{
+    background-color: #E9F4FF;;
+}
+
+.card-expand {
+    overflow: hidden;
+    background-color: white;
+    transition: max-height 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
+    max-height: 500px; 
+}
+
+.card-expand-expanded {
+    max-height: 1000px; 
+}
+
+
+.hidden-content {
+    display: none;
+}

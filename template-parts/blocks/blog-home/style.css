@@ -1,0 +1,24 @@
+.swiper-pagination{
+    display: flex;
+    justify-content: center;
+    bottom: -50px;
+}
+.swiper-pagination-bullet{
+    background-color: #000000;
+}
+
+.swiper-slide {
+    height: -webkit-max-content!important;
+    height: -moz-max-content!important;
+    height: max-content!important;
+    transition: background-color 0.3s ease-in-out !important;
+    background-color: white;
+    /*min-height: 350px !important;*/
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+}
+
+.swiper-slide:hover {
+    background-color: #E9F4FF;
+}

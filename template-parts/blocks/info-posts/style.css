@@ -1,0 +1,15 @@
+.page-number{
+    background-color: white;
+    color:#0e559d;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: 2px solid #0e559d;
+}
+
+.active-pagintion{
+    background-color: #0e559d;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: 2px solid #0e559d;
+}

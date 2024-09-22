@@ -1,0 +1,7 @@
+.prava-dugme{
+    transition: all 0.3s ease-in-out;
+}
+.prava-dugme:hover{
+    background-color: #15366E;
+    color: white;
+}
